@@ -1,2 +1,2 @@
 # Python
-I submit my weekly python assignment with through this repo
+I submit my weekly python class assignment through this repo
